@@ -34,9 +34,9 @@ architecture Behavioral of tt_um_tobimckellar_top is
 
 begin
 
-    uo_out <= std_logic_vector(unsigned(ui_in) + unsigned(uio_in));
-    uio_out <= "00000000";
-    uio_oe <= "00000000";
+    -- uo_out <= std_logic_vector(unsigned(ui_in) + unsigned(uio_in));
+
+
 
     -- Pin planning
     -- uio_in/out : 8 keyboard buttons
