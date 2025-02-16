@@ -35,7 +35,7 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
+  uo[0]: "Led output"
   uo[1]: ""
   uo[2]: ""
   uo[3]: ""
@@ -45,7 +45,7 @@ pinout:
   uo[7]: ""
 
   # Bidirectional pins
-  uio[0]: ""
+  uio[0]: "Cap_button inout"
   uio[1]: ""
   uio[2]: ""
   uio[3]: ""
